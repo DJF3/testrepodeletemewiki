@@ -1,0 +1,2 @@
+# testrepodeletemewiki
+wiki test
